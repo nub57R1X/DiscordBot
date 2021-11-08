@@ -1,0 +1,4 @@
+name: DiscordBot
+version: '${project.version}'
+main: com.kishore.discordbot.discordbot.DiscordBot
+api-version: 1.15
